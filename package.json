@@ -7,11 +7,11 @@
     "email": "ruipmarinho@gmail.com"
   },
   "license": "(MIT AND Apache-2.0)",
-  "homepage": "https://ruimarinho.github.io/google-libphonenumber/",
-  "bugs": "https://github.com/ruimarinho/google-libphonenumber/issues",
+  "homepage": "https://github.com/BenjaminEarley/google-libphonenumber/",
+  "bugs": "https://github.com/BenjaminEarley/google-libphonenumber/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruimarinho/google-libphonenumber.git"
+    "url": "https://github.com/BenjaminEarley/google-libphonenumber.git"
   },
   "main": "dist/libphonenumber.js",
   "keywords": [

@@ -3,8 +3,8 @@
   "description": "The up-to-date and reliable Google's libphonenumber package for node.js.",
   "homepage": "https://ruimarinho.github.io/google-libphonenumber/",
   "author": {
-    "name": "Rui Marinho",
-    "email": "ruipmarinho@gmail.com"
+    "name": "Benjamin Earley",
+    "email": "BenjaminEarley92@gmail.com"
   },
   "main": "./dist/libphonenumber.js",
   "license": "MIT",
